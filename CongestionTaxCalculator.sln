@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CongestionTaxCalculator", "CongestionTaxCalculator\CongestionTaxCalculator.csproj", "{F2602F7F-E4BE-4B61-9F91-51EDB5B71024}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2602F7F-E4BE-4B61-9F91-51EDB5B71024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2602F7F-E4BE-4B61-9F91-51EDB5B71024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2602F7F-E4BE-4B61-9F91-51EDB5B71024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2602F7F-E4BE-4B61-9F91-51EDB5B71024}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D742BD9D-176A-4A84-821B-54E62B025B4F}
+	EndGlobalSection
+EndGlobal
